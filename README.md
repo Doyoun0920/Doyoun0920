@@ -2,8 +2,11 @@
 
 # Who is me
 도윤, 영남대학교 컴퓨터공학 학생.
+
 현재 OOP 프로그래밍 공부 중
+
 Doyoun, Yeungnam university computer science student.
+
 Studying OOP languages now
 
 # Contact
