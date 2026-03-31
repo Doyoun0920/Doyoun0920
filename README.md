@@ -4,7 +4,7 @@
 도윤, 영남대학교 컴퓨터공학 학생.
 
 
-Doyoun, Yeungnam university computer engineering student.
+Doyoun, Yeungnam University Computer Engineering student.
 
 # Study
 -OOP 프로그래밍
