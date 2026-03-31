@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # Who is me
-도윤, 영남대학교 컴퓨터공학 학생
+도윤, 영남대학교 컴퓨터공학 학생.
+
 Doyoun0920, Yeungnam university computer science student.
 
 # Contact
