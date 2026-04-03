@@ -1,11 +1,11 @@
 ## Introduce
 
-# Who am I
+# Who am I ❓
 김도윤, 영남대학교 컴퓨터공학 23학번 학생.
 
 현재 공부와 개발 병행 중.
 
-# I am studying
+# I am studying 📖
 -OOP 프로그래밍
 
 -논리회로 구조
