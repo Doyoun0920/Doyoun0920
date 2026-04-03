@@ -1,9 +1,9 @@
-## Introduce
+## Introduction
 
 # Who am I ❓
 김도윤, 영남대학교 컴퓨터공학 23학번 학생.
 
-현재 공부와 개발 병행 중.
+개발과 공부의 병행을 바라는 학생
 
 # I am studying 📖
 -OOP 프로그래밍
